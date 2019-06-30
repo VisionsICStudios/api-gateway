@@ -1,0 +1,18 @@
+/*
+============================================
+; Title:  style.css (Update II)
+; Author: Professor Krasso
+; Modified By: Aaron Wilson
+; Date: 23 June 2019
+; Description: Global Application CSS File
+;===========================================
+*/
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
